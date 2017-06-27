@@ -4,12 +4,12 @@ A real-time chat room web application built with [socket.io](https://socket.io/)
 
 ## Getting Started
 
-### Local Usage
+### Quick Start
 
-To install app dependencies, simply:
+1. To install app dependencies, simply:
 
-`$ npm install`
+    `$ npm install`
 
-Then start the app at [localhost:3000](http://localhost:3000):
+2. Start the app at [localhost:3000](http://localhost:3000):
 
-`$ npm start`
+    `$ npm start`
