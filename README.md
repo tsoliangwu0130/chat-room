@@ -11,6 +11,6 @@ To install app dependencies, simply:
 
 `$ npm install`
 
-Then start the app at [localhost:3000](localhost:3000):
+Then start the app at [localhost:3000](https://localhost:3000):
 
 `$ npm start`
