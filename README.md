@@ -16,12 +16,12 @@ A real-time chat room web application built with [socket.io](https://socket.io/)
 
 ### Docker
 
-[Dockerfile](Dockerfile) is also provided. To run this app in Docker contain, just simply install [Docker](https://www.docker.com/) first, then:
+[Dockerfile](Dockerfile) is also provided. To run this app in a container, just simply install [Docker](https://www.docker.com/) first, then:
 
 1. Build the docker image:
 
     `$ docker build -t tsoliang/chat-room .`
 
-2. Run the app in docker container and export the container to local port 3000:
+2. Run the app in a docker container and export the container to local port 3000:
 
     `$ docker run -p 3000:3000 -d tsoliang/chat-room`
