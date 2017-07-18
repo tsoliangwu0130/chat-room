@@ -8,11 +8,15 @@ A real-time chat room web application built with [socket.io](https://socket.io/)
 
 1. To install app dependencies, simply:
 
-    `$ npm install`
+```
+$ npm install
+```
 
 2. Start the app at [localhost:3000](http://localhost:3000):
 
-    `$ npm start`
+```
+$ npm start
+```
 
 ### Docker
 
@@ -20,8 +24,12 @@ A real-time chat room web application built with [socket.io](https://socket.io/)
 
 1. Build the docker image:
 
-    `$ docker build -t tsoliang/chat-room .`
+```
+$ docker build -t tsoliang/chat-room .`
+```
 
-2. Run the app in a docker container and expose the container port to local port 3000:
+2. Run the app in a docker container and expose the container port cdto local port 3000:
 
-    `$ docker run -p 3000:3000 -d tsoliang/chat-room`
+```
+$ docker run -p 3000:3000 -d tsoliang/chat-room`
+```
