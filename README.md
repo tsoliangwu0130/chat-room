@@ -25,11 +25,11 @@ $ npm start
 1. Build the docker image:
 
 ```
-$ docker build -t tsoliang/chat-room .`
+$ docker build -t tsoliang/chat-room .
 ```
 
 2. Run the app in a docker container and expose the container port cdto local port 3000:
 
 ```
-$ docker run -p 3000:3000 -d tsoliang/chat-room`
+$ docker run -p 3000:3000 -d tsoliang/chat-room
 ```
