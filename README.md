@@ -1,4 +1,4 @@
-# Chat Room [![Build Status](https://travis-ci.org/tsoliangwu0130/chat-room.svg?branch=master)](https://travis-ci.org/tsoliangwu0130/chat-room)
+# Chat Room [![Build Status](https://travis-ci.org/tsoliangwu0130/chat-room.svg?branch=master)](https://travis-ci.org/tsoliangwu0130/chat-room) [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 A real-time chat room web application built with [socket.io](https://socket.io/) and [Node.js](https://nodejs.org/en/). Chat now: https://tsoliang-chat-room.herokuapp.com/
 
